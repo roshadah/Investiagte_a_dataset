@@ -1,4 +1,4 @@
-# Investiagte_a_dataset
+# Investigate_a_dataset
 ## (Appiontment Data Exploration)
 ## by (Atanda Rasheed)
 
